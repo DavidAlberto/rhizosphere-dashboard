@@ -1,1 +1,10 @@
+# Conda environments
 .venv/
+*.conda
+*.yml
+
+# R environments
+.renv/
+*.Rhistory
+*.Rproj.user/
+
